@@ -1,2 +1,2 @@
 # hello-world
-first sketch
+* I'm Lajja Patel.
