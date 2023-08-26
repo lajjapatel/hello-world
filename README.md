@@ -1,3 +1,4 @@
 # hello-world
-* I'm Lajja Patel.
-* This is my first computer science class ever.
+* I am Lajja Patel.
+* I am a sophomore majoring in neuroscience.
+* This is my first every computer science class.
